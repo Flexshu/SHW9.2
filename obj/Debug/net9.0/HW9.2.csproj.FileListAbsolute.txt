@@ -1,0 +1,15 @@
+/Users/Yehor/Documents/Єгора/C#/HW9.2/bin/Debug/net9.0/HW9.2
+/Users/Yehor/Documents/Єгора/C#/HW9.2/bin/Debug/net9.0/HW9.2.deps.json
+/Users/Yehor/Documents/Єгора/C#/HW9.2/bin/Debug/net9.0/HW9.2.runtimeconfig.json
+/Users/Yehor/Documents/Єгора/C#/HW9.2/bin/Debug/net9.0/HW9.2.dll
+/Users/Yehor/Documents/Єгора/C#/HW9.2/bin/Debug/net9.0/HW9.2.pdb
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/HW9.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/HW9.2.AssemblyInfoInputs.cache
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/HW9.2.AssemblyInfo.cs
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/HW9.2.csproj.CoreCompileInputs.cache
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/HW9.2.sourcelink.json
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/HW9.2.dll
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/refint/HW9.2.dll
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/HW9.2.pdb
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/HW9.2.genruntimeconfig.cache
+/Users/Yehor/Documents/Єгора/C#/HW9.2/obj/Debug/net9.0/ref/HW9.2.dll
